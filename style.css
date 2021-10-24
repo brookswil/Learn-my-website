@@ -1,0 +1,19 @@
+body {
+    background-image: url("./personal picture.png");
+    background-size: cover;
+}
+
+button {
+    border-radius: 25px;
+    color: black;
+}
+
+button:hover {
+    background-color: #FFC0C7!important;
+    cursor: pointer;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
